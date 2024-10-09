@@ -1,6 +1,7 @@
+
 # EXNO:4-DS
-## Name:Aadithyan R 
-## Register number : 212222230001
+## Name:AMRUTHA SA
+## Register number : 21222211004
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -77,4 +78,20 @@ The feature selection techniques used are:
 
 
 # RESULT:
-     Thus feature scaling and selection is performed.
+     Thus feature scaling and selection is performed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
